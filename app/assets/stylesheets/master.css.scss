@@ -1,3 +1,4 @@
+
 .clear{
 	clear:both;
 }
@@ -27,16 +28,31 @@
 font-style:italic;
 padding-top:26px;
 }
-.links{
+.links {
 	padding-top: 26px;
 }
-.link a {
+.links a {
 	color:black;
 	font-size: 25px;
+	border-bottom: 1px solid #dfdfdf;
+	font-family: 'kaushan_scriptregular',sans-serif;
+	font-weight: bold;
 }
 header{
 	border-top: 9px solid #222222;
 }
 hr{
 	clear:both;
+}
+h1{
+
+	font-family: 'kaushan_scriptregular',  sans-serif;
+	font-weight:bold;
+	font-size:48px
+  
+}
+h2 {
+  font-family: 'kaushan_scriptregular', sans-serif;
+  
+  
 }
