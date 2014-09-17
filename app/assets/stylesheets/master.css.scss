@@ -22,8 +22,16 @@
     -ms-transform:rotate(11deg); /* IE 9 */
     -webkit-transform:rotate(11deg); /* Opera, Chrome, and Safari */
 }
+.about{
+    font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+
+
+
+
+
+}
 .slogan {
-  font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
+  font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
 
 font-style:italic;
 padding-top:26px;
@@ -38,9 +46,17 @@ padding-top:26px;
 	font-family: 'kaushan_scriptregular',sans-serif;
 	font-weight: bold;
 }
+
 header{
 	border-top: 9px solid #222222;
 }
+
+body{
+
+     background-image: url('2.png');
+    }
+    
+
 hr{
 	clear:both;
 }
@@ -55,13 +71,15 @@ h2 {
   font-family: 'kaushan_scriptregular', sans-serif;
   
 }
+
 .next-quote{
 	color:#f84342;
 	font-family: 'kaushan_scriptregular',sans-serif;
 	font-size:20px;
 }
 .footer-blurb{
-	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
+	font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+
 
 font-style:italic;
 text-align:right;
